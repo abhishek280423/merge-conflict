@@ -9,9 +9,15 @@ Initial Security()
 {
  //Sample Code
 }
-Security patch
+
+
+
+
+=======
+Security Patch
 {
-	/Sample code
+	//Sample Code
+>>>>>>> master
 }
 
 
